@@ -1,3 +1,4 @@
+layout: page
 <figure class="table">
     <table>
         <tbody>
