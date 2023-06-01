@@ -13,9 +13,9 @@
                 <td>
                     <p style="text-align:center;">BTC</p>
                 </td>
-                <td>bc1qelhkkc34qzaj0xxdruhw39x9z9aphzcjn4jhgf&nbsp;</td>
+                <td>bc1qelhkkc34qzaj0xxdruhw39x9z9aphzcjn4jhgf</td>
                 <td>
-                    <img src="images/bitcoin(btc).png"  width="150">
+                    <img src="images/bitcoin(btc).png" width="150">
                 </td>
             </tr>
             <tr>
