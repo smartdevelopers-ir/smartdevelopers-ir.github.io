@@ -1,1 +1,2 @@
-hello
+layout: page
+title: "Donate"
